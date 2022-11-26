@@ -17,7 +17,7 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[Water] Units adjacent to this city heal [+10] HP per turn when healing",
 			    "Must be next to [Coast]"],"[+25]% Production when constructing [Civilian Water] units [in this city]",
-			    "[+15]% Production when constructing [Melee Water] units [in this city] <with a garrison>",
+			    "[+15]% Production when constructing [Melee Water] units [in this city] <before the [Industrial era]>",
 			    "[+1] Unit Supply"
 		"requiredTech": "Construction"
 	},
