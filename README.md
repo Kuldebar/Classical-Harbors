@@ -4,13 +4,18 @@ Modded Harbor for Unciv
 This project enables Harbor in the Classical Era where it truly belongs. Additionally, RealBambooLord's Military Port has now been added.
 
 Modifications/Details:
+
 - Harbor, requires Optics: 
+
 DETAILS:
+
 +1 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast
+			"Connects trade routes over water","Must be next to [Coast]
       
 - Military Port, requires Construction
+
 DETAILS:
+
 [Water] Units adjacent to this city heal [+10] HP per turn when healing",
 			    "Must be next to [Coast]","[+25]% Production when constructing [Civilian Water] units [in this city]",
 			    "[+15]% Production when constructing [Melee Water] units [in this city] <before the [Industrial era]>",
