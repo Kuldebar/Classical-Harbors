@@ -1,7 +1,7 @@
 # Classical-Harbors
 Modded Harbor for Unciv
 
-This project enables Harbor in the Classical Era where it truly belongs. Additionally, RealBamboolord's Military Port has now been added.
+This project enables Harbor in the Classical Era where it truly belongs. Additionally, RealBambooLord's Military Port has now been added.
 
 Modifications/Details:
 - Harbor, requires Optics: 
