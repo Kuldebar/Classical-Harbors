@@ -4,7 +4,7 @@ size: 128, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Military Port
+BuildingIcons/Shipyard
   rotate: false
   xy: 4, 4
   size: 100, 100
