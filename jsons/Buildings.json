@@ -9,7 +9,7 @@
 		"requiredTech": "Optics"
 	},
 	{
-		"name": "Military Port",
+		"name": "Shipyard",
 		"cost": 110,
 		"cityStrength": 5,
 		"maintenance": 1,
