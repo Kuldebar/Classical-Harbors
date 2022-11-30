@@ -1,10 +1,11 @@
 ![CaesareaPainting](https://user-images.githubusercontent.com/117689753/204924280-c4c40ff7-afe6-4ee3-a041-58de515d01d6.jpg)
+
 # Classical-Harbors
 Modded Harbor and Shipyard for Unciv
 
-![alt The Harbor](https://www.realmofhistory.com/wp-content/uploads/2016/07/Ostia-3-min.jpg?ezimgfmt=ng:webp/ngcb20://url/to/img.png)
 
-This project enables Harbor in the Classical Era where it truly belongs. Additionally, RealBambooLord's Military Port, (aka Shipyard) has now been added which adds a new building to the game.
+
+This UnCiv mod enables Harbor in the Classical Era where it truly belongs. Additionally, RealBambooLord's Military Port, (aka Shipyard) has now been added which adds a new building to the game.
 
 Modifications/Details:
 
